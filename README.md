@@ -1,8 +1,6 @@
 # flutter_me
 
-A new Flutter project.
+Just a very simple app
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Look in main.dart and pubspec.yaml
+Images under graphics

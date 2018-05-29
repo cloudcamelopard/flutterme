@@ -63,7 +63,6 @@ class _BodyPartState extends State<BodyPart> {
       color: Colors.white,
       child: FlatButton(
         highlightColor: Colors.white,
-        //disabledColor: Colors.white,
         splashColor: Colors.white,
         color: Colors.white,
         child: Image.asset('graphics/$_part$_variation.png'),
@@ -71,8 +70,4 @@ class _BodyPartState extends State<BodyPart> {
       )
     );
   }
-}
-
-enum Part {
-  head, body, legs
 }
