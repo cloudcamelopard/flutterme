@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 main() => runApp(FlutterMeApp());
 
-// Test
+// Test 2
 class FlutterMeApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
